@@ -51,7 +51,8 @@ Repositório com as respostas da prova prática de SQL utilizando PostgreSQL.
 
 ## Observações
 
- 1- Para a consulta da questão dois, tive que inserir mais dados, para que existam 10 solicitações em algum mês.
+ 1- Para a consulta da questão dois, tive que inserir mais dados, para que existam 10 solicitações em algum mês.  
+ 
  2- Não entendi direito essa parte do teste, fiquei na duvida se era pra usar call ou select, porém como a questão 4 solicitava uma procedure, acabei fazendo com call.
 
 
