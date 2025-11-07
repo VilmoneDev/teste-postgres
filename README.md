@@ -25,17 +25,29 @@ Repositório com as respostas da prova prática de SQL utilizando PostgreSQL.
 2. Execute os scripts na seguinte ordem:
 
    1- criacao_tabelas.sql
+   
    2- inserts.sql
+   
    3- questao_1.sql
+   
    4- insert_questao_2.sql
+   
    5- questao_2.sql
+   
    6- questao_3.sql
+   
    7- questao_4.sql
+   
    8- questao_5.sql
+   
    9- teste_procedure.sql
+   
    10- teste_trigger.sql
+   
    11- teste_verificar_status.sql
+   
    12- teste_verificar_logs.sql
+   
 
 ## Observações
 
